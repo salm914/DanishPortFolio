@@ -1,7 +1,7 @@
 <template>
   <header class="header-div fixed-top">
     <div class="brand">
-      <span class="text-large"> AbuDanish Masood Muhammed </span>
+      <span class="text-large">Masuod Mohammed Abudaneesh </span>
     </div>
 
     <nav class="nav-links">
