@@ -19,7 +19,7 @@
       <!-- Image -->
       <div class="col-lg-5">
         <div class="image-wrapper fade-in">
-          <img src="/img4.png" alt="Fragrance Expert" class="profile-image" />
+          <img src="/img4.png" alt="Fragrance Expert" class="profile-image" loading="eager" />
         </div>
       </div>
     </div>

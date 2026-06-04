@@ -5,7 +5,7 @@
         <!-- Image -->
         <div class="col-lg-5">
           <div class="image-wrapper fade-left">
-            <img src="/img3.jpeg" alt="Fragrance Consultant" class="about-img" />
+            <img src="/img3.jpeg" alt="Fragrance Consultant" class="about-img" loading="lazy" />
           </div>
         </div>
 

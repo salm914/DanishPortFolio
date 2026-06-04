@@ -13,7 +13,7 @@
     </div>
 
     <div class="image-wrapper fade-up">
-      <img class="case-study-image" src="/img.png" alt="Luxury Fragrance Collection" />
+      <img class="case-study-image" src="/img.png" alt="Luxury Fragrance Collection" loading="lazy" />
     </div>
   </section>
 </template>
