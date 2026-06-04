@@ -124,7 +124,7 @@ p {
 
 @media (max-width: 576px) {
   .profileSection {
-    margin-top: 70px;
+    margin-top: 85px;
     padding-inline: 1.25rem;
   }
 
