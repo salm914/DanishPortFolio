@@ -14,25 +14,25 @@
     <div class="expertise-card fade-up">
       <div class="expertise-grid">
         <div class="expertise-item">
-          <div class="icon">🌿</div>
+          <div class="icon"><i class="fa-solid fa-leaf"></i></div>
           <h4>Fragrance Notes</h4>
           <p>Understanding top, heart, and base notes and how they evolve over time.</p>
         </div>
 
         <div class="expertise-item">
-          <div class="icon">🪵</div>
+          <div class="icon"><i class="fa-solid fa-droplet"></i></div>
           <h4>Oud & Oriental Scents</h4>
           <p>Strong knowledge of oud-based, oriental, woody, and amber compositions.</p>
         </div>
 
         <div class="expertise-item">
-          <div class="icon">✨</div>
+          <div class="icon"><i class="fa-solid fa-user-check"></i></div>
           <h4>Personal Recommendations</h4>
           <p>Matching fragrances with personality, occasion, and lifestyle.</p>
         </div>
 
         <div class="expertise-item">
-          <div class="icon">⏳</div>
+          <div class="icon"><i class="fa-solid fa-gauge-high"></i></div>
           <h4>Performance Analysis</h4>
           <p>Guidance on longevity, projection, sillage, and seasonal suitability.</p>
         </div>
